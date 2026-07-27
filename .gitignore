@@ -1,0 +1,17 @@
+logs/
+llm_exchange/
+venv/
+dist/
+.idea/
+.claude/
+.pytest_cache/
+.env
+.env.*
+**/actual_states/*
+**/__pycache__/*
+creds
+*.xlsx
+*.txt
+suspect_decisions.py
+teams/teams
+data/smogon_stats_cache
