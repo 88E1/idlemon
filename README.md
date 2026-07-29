@@ -25,3 +25,5 @@ python run.py \
 ## NOTE
 
 I suggest using Cursor agent since you can easily access + monitor remotely on mobile (I did so during a date so take my word) + cheaper access to gemini 3.5 
+
+Have fun :) 
