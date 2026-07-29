@@ -4,6 +4,8 @@ A Pokemon Showdown agent for VGC / Champions doubles.
 
 It autonomously logs into Showdown, queues battles, and picks moves each turn. Decisions can come from a fast heuristic, LLM call (I suggest Gemini Flash 3.5 since thinking models take too long and surpass battle timer).
 
+Also keeps a memory of its past fights (especially mistakes), learns from them, and changes how it plays because of them (TL;DR agent adjusts to meta the more you play) 
+
 ## Demo
 
 https://github.com/user-attachments/assets/ab51e463-ef14-4f5e-a442-9ece8319a602
