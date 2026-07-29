@@ -4,6 +4,10 @@ A Pokemon Showdown bot for VGC / Champions doubles.
 
 It logs into Showdown, queues battles, and picks moves each turn. Decisions can come from a fast heuristic, LLM call (I suggest Gemini Flash 3.5 since thinking models take too long and surpass battle timer).
 
+## Demo
+
+![idlemon demo](idlemon-demo.mp4)
+
 Built on [foul-play](https://github.com/pmariglia/foul-play) (doubles fork).
 
 ## Run
@@ -17,3 +21,7 @@ python run.py \
   --pokemon-format gen9championsvgc2026regmb \
   --team-name gen9championsvgc2026regmb/sample \
 ```
+
+## NOTE
+
+I suggest using Cursor agent since you can easily access + monitor remotely on mobile + cheaper access to gemini 3.5 
