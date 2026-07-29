@@ -6,7 +6,7 @@ It logs into Showdown, queues battles, and picks moves each turn. Decisions can 
 
 ## Demo
 
-![idlemon demo](idlemon-demo.mp4)
+https://github.com/user-attachments/assets/ab51e463-ef14-4f5e-a442-9ece8319a602
 
 Built on [foul-play](https://github.com/pmariglia/foul-play) (doubles fork).
 
