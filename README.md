@@ -1,8 +1,8 @@
 # idlemon
 
-A Pokemon Showdown bot for VGC / Champions doubles.
+A Pokemon Showdown agent for VGC / Champions doubles.
 
-It logs into Showdown, queues battles, and picks moves each turn. Decisions can come from a fast heuristic, LLM call (I suggest Gemini Flash 3.5 since thinking models take too long and surpass battle timer).
+It autonomously logs into Showdown, queues battles, and picks moves each turn. Decisions can come from a fast heuristic, LLM call (I suggest Gemini Flash 3.5 since thinking models take too long and surpass battle timer).
 
 ## Demo
 
