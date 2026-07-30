@@ -10,8 +10,6 @@ Also keeps a memory of its past fights (especially mistakes), learns from them, 
 
 https://github.com/user-attachments/assets/ab51e463-ef14-4f5e-a442-9ece8319a602
 
-Built on [foul-play](https://github.com/pmariglia/foul-play) (doubles fork).
-
 ## Run
 
 ```bash
